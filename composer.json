@@ -1,0 +1,17 @@
+{
+    "name": "shamimshakir/gms",
+    "description": "Game management system in ums",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shamimshakir"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*"
+    }
+}
